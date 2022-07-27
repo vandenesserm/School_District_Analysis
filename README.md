@@ -29,16 +29,20 @@ Using Jupyter Notebook and Python to conduct an in-depth school data analysis fo
 
 ### How is the district summary affected?
 
-Original District Summary
+<img src=https://raw.githubusercontent.com/vandenesserm/School_District_Analysis/main/PNGs/District%20Summary%20-%20Original.png> 
+Fig.1 - Original District Summary
 
 
-Updated District Summary
-
+<img src=https://raw.githubusercontent.com/vandenesserm/School_District_Analysis/main/PNGs/District%20Summary%20-%20Updated.png>
+Fig.2 - Updated District Summary
 
 The change on the overall, math, and reading passing scores, after removing the data from all 461 Thomas High School's 9th grade students, was less than 1%. 
 
 
 ### How is the school summary affected?
+
+<img src=https://raw.githubusercontent.com/vandenesserm/School_District_Analysis/main/PNGs/THS%20-%20Comparison.png>
+Fig.3 - Thomas High School Summary
 
 As shown in the comparison below, the school saw significant drops in math and reading passing percentage, and overall passing percentage. Average scores for math and reading remained almost the same.
 
