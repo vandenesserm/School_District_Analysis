@@ -1,6 +1,7 @@
 # School District Analysis
 
 ## Overview of the school district analysis: Explain the purpose of this analysis
+#
 Using Jupyter Notebook and Python to conduct an in-depth school data analysis for reading and math assessment scores to help identify patterns and trends in students'achievements based on school size, budget, and type. Before sharing the final results to the school board members, math and Reading scores for Thomas High School's 9th graders must be replacesd with NaNs (Not a Number) and all deliverables must be recalculated.
 
 ### List of requested deliverables:
@@ -23,37 +24,56 @@ Using Jupyter Notebook and Python to conduct an in-depth school data analysis fo
 - Numpy
 - Virtual Studio Code
 
-
-
 ## Results: 
 
 ### How is the district summary affected?
 
+Original District Summary:
 <img src=https://raw.githubusercontent.com/vandenesserm/School_District_Analysis/main/PNGs/District%20Summary%20-%20Original.png> 
-Fig.1 - Original District Summary
 
-
+Updated District Summary:
 <img src=https://raw.githubusercontent.com/vandenesserm/School_District_Analysis/main/PNGs/District%20Summary%20-%20Updated.png>
-Fig.2 - Updated District Summary
 
 The change on the overall, math, and reading passing scores, after removing the data from all 461 Thomas High School's 9th grade students, was less than 1%. 
 
 
 ### How is the school summary affected?
 
-<img src=https://raw.githubusercontent.com/vandenesserm/School_District_Analysis/main/PNGs/THS%20-%20Comparison.png>
-Fig.3 - Thomas High School Summary
-
 As shown in the comparison below, the school saw significant drops in math and reading passing percentage, and overall passing percentage. Average scores for math and reading remained almost the same.
+
+Fig.3 - Thomas High School (School Summary)
+<img src=https://raw.githubusercontent.com/vandenesserm/School_District_Analysis/main/PNGs/THS%20-%20Comparison.png>
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
 ### How does replacing the ninth-grade scores affect the following:
-- Math and reading scores by grade
+- Math scores by grade:
 
-- Scores by school spending
-- Scores by school size
-- Scores by school type
+The previous ninth-grade score of 83.59 for math has been replaced with nan (not a number).
+
+<img src=https://raw.githubusercontent.com/vandenesserm/School_District_Analysis/main/PNGs/Math%20Scores%20by%20Grade%20-%20Updated.png>
+
+
+- Reading scores by grade: 
+ 
+ The previous ninth-grade score of 83.72 for reading has been replaced with nan (not a number).
+
+<img src=https://raw.githubusercontent.com/vandenesserm/School_District_Analysis/main/PNGs/Reading%20Scores%20by%20Grade%20-%20Updated.png>
+
+- Scores by school spending:
+
+<img src=https://raw.githubusercontent.com/vandenesserm/School_District_Analysis/main/PNGs/Spending%20Summary%20-%20Comparison.png>
+
+
+- Scores by school size:
+  
+With 1635 students, Thomas High school is considered a medium school. Replacing ninth-grade scores had relatively low impact in the average scores of medium-sized schools, as shown:
+<img src=https://raw.githubusercontent.com/vandenesserm/School_District_Analysis/main/PNGs/Size%20Summary%20-%20Comparison.png>
+  
+- Scores by school type:    
+
+Thomas High School is a charter school. Like the scores by school size, replacing ninth-grade scores had relatively low impact in the average scores of charter schools in general.
+<img src=https://raw.githubusercontent.com/vandenesserm/School_District_Analysis/main/PNGs/School%20Type%20Summary%20-%20Comparison.png>
 
 
 
