@@ -98,4 +98,6 @@ Thomas High School is a charter school. Like the scores by school size, replacin
 
 
 ## Summary: 
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+Overall, four changes were noted :
+
+1) The removal of the ninth-grade 
