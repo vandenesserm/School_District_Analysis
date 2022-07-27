@@ -46,17 +46,23 @@ Fig.3 - Thomas High School (School Summary)
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
+Before removing the scores for 9th grade, Thomas High School was in the top 5 performing schools:
+
+
+
+
+
 ### How does replacing the ninth-grade scores affect the following:
 - Math scores by grade:
 
-The previous ninth-grade score of 83.59 for math has been replaced with nan (not a number).
+The previous ninth-grade score of 83.59 for math has been replaced with nan (not a number). Grades for tenth to twelveth grades remain unchanged.
 
 <img src=https://raw.githubusercontent.com/vandenesserm/School_District_Analysis/main/PNGs/Math%20Scores%20by%20Grade%20-%20Updated.png>
 
 
 - Reading scores by grade: 
  
- The previous ninth-grade score of 83.72 for reading has been replaced with nan (not a number).
+ The previous ninth-grade score of 83.72 for reading has been replaced with nan (not a number). Grades for tenth to twelveth grades remain unchanged.
 
 <img src=https://raw.githubusercontent.com/vandenesserm/School_District_Analysis/main/PNGs/Reading%20Scores%20by%20Grade%20-%20Updated.png>
 
